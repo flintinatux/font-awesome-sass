@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
 
   spec.add_runtime_dependency 'sass', '>= 3.1.1'
-  spec.add_runtime_dependency 'sprockets'
+  spec.add_runtime_dependency 'sprockets_rails3_backport'
 end
